@@ -12,3 +12,4 @@
 /Users/andrej/Documents/C#/Rock-Paper-Scissor/obj/Debug/net9.0/Rock-Paper-Scissor.pdb
 /Users/andrej/Documents/C#/Rock-Paper-Scissor/obj/Debug/net9.0/Rock-Paper-Scissor.genruntimeconfig.cache
 /Users/andrej/Documents/C#/Rock-Paper-Scissor/obj/Debug/net9.0/ref/Rock-Paper-Scissor.dll
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/obj/Debug/net9.0/Rock-Paper-Scissor.sourcelink.json

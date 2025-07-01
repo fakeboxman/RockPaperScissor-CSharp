@@ -34,7 +34,19 @@ class Player {
     int choice = 0;
     while (choice < 1 || choice > 3) {
     Console.WriteLine($"{Name} select your hand:\n1. Rock\n2. Paper\n3. Scissors");
-    choice = Convert.ToInt32(Console.ReadLine());
+    ConsoleKeyInfo keyInfo = Console.ReadKey(true); // true means don't show input in console. 
+    if (keyInfo.Key == ConsoleKey.D1){
+      choice = 1;
+      }
+    else if (keyInfo.Key == ConsoleKey.D2) {
+        choice = 2;
+      }
+    else if (keyInfo.Key == ConsoleKey.D3) {
+        choice = 3;
+      }
+    else {
+        choice = 0;
+      }
     }
     if (choice == 1) {
       Hand = Hands.Rock;

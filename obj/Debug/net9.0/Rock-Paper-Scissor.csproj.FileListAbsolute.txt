@@ -1,0 +1,14 @@
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/bin/Debug/net9.0/Rock-Paper-Scissor
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/bin/Debug/net9.0/Rock-Paper-Scissor.deps.json
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/bin/Debug/net9.0/Rock-Paper-Scissor.runtimeconfig.json
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/bin/Debug/net9.0/Rock-Paper-Scissor.dll
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/bin/Debug/net9.0/Rock-Paper-Scissor.pdb
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/obj/Debug/net9.0/Rock-Paper-Scissor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/obj/Debug/net9.0/Rock-Paper-Scissor.AssemblyInfoInputs.cache
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/obj/Debug/net9.0/Rock-Paper-Scissor.AssemblyInfo.cs
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/obj/Debug/net9.0/Rock-Paper-Scissor.csproj.CoreCompileInputs.cache
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/obj/Debug/net9.0/Rock-Paper-Scissor.dll
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/obj/Debug/net9.0/refint/Rock-Paper-Scissor.dll
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/obj/Debug/net9.0/Rock-Paper-Scissor.pdb
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/obj/Debug/net9.0/Rock-Paper-Scissor.genruntimeconfig.cache
+/Users/andrej/Documents/C#/Rock-Paper-Scissor/obj/Debug/net9.0/ref/Rock-Paper-Scissor.dll
